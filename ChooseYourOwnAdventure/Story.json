@@ -1,0 +1,43 @@
+{
+  "intro": {
+    "title": "Visit",
+    "story": [
+      "Hi"
+    ],
+    "options": [
+      {
+        "text": "Hi",
+        "arc": "response"
+      },
+      {
+        "text": "Bye",
+        "arc": "ignore"
+      }
+    ]
+  },
+
+  "response": {
+    "title": "Friendly",
+    "story": [
+      "How are you?"
+    ],
+    "options": []
+  },
+
+  "ARCNAME": {
+    "TITLE": "",
+    "CONTENT": [
+      ""
+    ],
+    "OPTIONS": [
+      {
+        "CONTENT": "",
+        "NEXTARCNAME": ""
+      },
+      {
+        "CONTENT": "",
+        "NEXTARCNAME": ""
+      }
+    ]
+  }
+}
